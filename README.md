@@ -1,1 +1,15 @@
-EMG mobile application 
+# ЭЭГ Мобильное Приложение
+
+## Быстрый старт
+
+### Установка зависимостей
+```bash
+flutter pub get
+```
+
+### Запуск приложения
+
+#### Android
+```bash
+flutter run
+```

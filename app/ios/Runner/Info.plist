@@ -45,5 +45,15 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Приложению необходим доступ к Bluetooth для подключения к устройствам</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>Приложению необходим доступ к Bluetooth для подключения к устройствам</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Приложению необходим доступ к геолокации для работы с Bluetooth устройствами</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Приложению необходим доступ к геолокации для работы с Bluetooth устройствами в фоновом режиме</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Приложению необходим доступ к геолокации для работы с Bluetooth устройствами в фоновом режиме</string>
 </dict>
 </plist>
